@@ -1,0 +1,6 @@
+[submodule "react-hook-form-analysis"]
+	path = react-hook-form-analysis
+	url = git@github.com:Col0ring/react-hook-form-analysis.git
+[submodule "rc-field-form-analysis"]
+	path = rc-field-form-analysis
+	url = git@github.com:Col0ring/rc-field-form-analysis.git
