@@ -4,3 +4,6 @@
 [submodule "rc-field-form-analysis"]
 	path = rc-field-form-analysis
 	url = git@github.com:Col0ring/rc-field-form-analysis.git
+[submodule "rc-form-analysis"]
+	path = rc-form-analysis
+	url = git@github.com:Col0ring/rc-form-analysis.git
