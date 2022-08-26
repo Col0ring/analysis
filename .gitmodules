@@ -7,3 +7,6 @@
 [submodule "rc-form-analysis"]
 	path = rc-form-analysis
 	url = git@github.com:Col0ring/rc-form-analysis.git
+[submodule "react-final-form-analysis"]
+	path = react-final-form-analysis
+	url = git@github.com:Col0ring/react-final-form-analysis.git
