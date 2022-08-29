@@ -12,3 +12,5 @@
   - 4.20.7：数据流部分完成。
 - react-final-form：`final-form`的`react`封装。
   - v6.5.9：数据流部分完成。
+- formily：阿里巴巴统一表单解决方案。
+  - v2.2.1：进行中

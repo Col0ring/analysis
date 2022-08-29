@@ -13,3 +13,6 @@
 [submodule "final-form-analysis"]
 	path = final-form-analysis
 	url = git@github.com:Col0ring/final-form-analysis.git
+[submodule "formily-analysis"]
+	path = formily-analysis
+	url = git@github.com:Col0ring/formily-analysis.git
